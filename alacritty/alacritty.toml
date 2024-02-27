@@ -1,0 +1,26 @@
+
+[shell]
+program = "/bin/zsh"
+args = ["-1"]
+
+
+[window]
+opacity = 0.98
+padding ={ x = 0,  y = 0 }
+
+[scrolling]
+history = 10000
+multiplier= 3
+
+
+[font]
+normal = { family = "jetBrainsMono Nerd Font Mono", style = "Regular" }
+bold = { family = "jetBrainsMono Nerd Font Mono", style = "Bold" }
+italic = { family = "jetBrainsMono Nerd Font Mono", style = "italic" }
+bold_italic = { family = "jetBrainsMono Nerd Font Mono", style = "Bold Italic" }
+
+size = 10
+
+glyph_offset = { x = 0, y = 0 }
+
+
